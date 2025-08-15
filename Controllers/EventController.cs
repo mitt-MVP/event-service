@@ -6,7 +6,7 @@ namespace event_service.Controllers
     [Route("api/[controller]")]
     public class EventsController : ControllerBase
     {
-        // Startdata – samma som din kalender visar just nu
+       
         private static List<EventItem> Events = new()
         {
             new EventItem { Id = 1, Title = "Vendor Feedback",    Date = "2029-05-02", Type = "schedule" },
@@ -53,4 +53,5 @@ namespace event_service.Controllers
         public string? ContactEmail { get; set; }
         public string? ContactPhone { get; set; }
     }
+
 }
