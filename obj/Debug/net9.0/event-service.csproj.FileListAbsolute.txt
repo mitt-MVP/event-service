@@ -31,3 +31,7 @@
 /Users/anja/Documents/event-service/obj/Debug/net9.0/event-service.pdb
 /Users/anja/Documents/event-service/obj/Debug/net9.0/event-service.genruntimeconfig.cache
 /Users/anja/Documents/event-service/obj/Debug/net9.0/ref/event-service.dll
+/Users/anja/Documents/event-service/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/anja/Documents/event-service/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/anja/Documents/event-service/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/anja/Documents/event-service/obj/Debug/net9.0/event-service.sourcelink.json
